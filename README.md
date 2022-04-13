@@ -1,1 +1,1 @@
-- Lâmpada JS
+- Lâmpada JS.
